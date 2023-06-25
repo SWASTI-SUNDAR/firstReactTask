@@ -1,0 +1,21 @@
+.icon img{
+    max-height: 300px;
+    max-width: 200px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border:2px solid blue; */
+    margin-top: 30%;
+}
+.card{
+    border:2px solid blue;
+}
+.slide{
+    border: 2px solid brown;
+
+}
+.content{
+    padding:  15px;
+}
